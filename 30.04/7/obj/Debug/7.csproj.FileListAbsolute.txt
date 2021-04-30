@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\30.04\7\bin\Debug\7.exe.config
+C:\Users\Lenovo\source\repos\30.04\7\bin\Debug\7.exe
+C:\Users\Lenovo\source\repos\30.04\7\bin\Debug\7.pdb
+C:\Users\Lenovo\source\repos\30.04\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\30.04\7\obj\Debug\7.exe
+C:\Users\Lenovo\source\repos\30.04\7\obj\Debug\7.pdb
